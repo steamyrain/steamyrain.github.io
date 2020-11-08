@@ -3,15 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://steamyrain.github.io/categories/</loc>
+    <loc>https://steamyrain.github.io/index.html</loc>
   </url>
   
   <url>
     <loc>https://steamyrain.github.io/</loc>
-  </url>
-  
-  <url>
-    <loc>https://steamyrain.github.io/tags/</loc>
   </url>
   
 </urlset>
