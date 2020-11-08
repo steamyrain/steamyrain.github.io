@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>steamyrain</title>
-    <link>http://example.org/</link>
+    <link>http://steamyrain.github.io/</link>
     <description>Recent content on steamyrain</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Oct 2020 11:44:35 +0700</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 Oct 2020 11:44:35 +0700</lastBuildDate><atom:link href="http://steamyrain.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Third</title>
-      <link>http://example.org/article/third/</link>
+      <link>http://steamyrain.github.io/article/third/</link>
       <pubDate>Mon, 19 Oct 2020 11:44:35 +0700</pubDate>
       
-      <guid>http://example.org/article/third/</guid>
+      <guid>http://steamyrain.github.io/article/third/</guid>
       <description>whatever man, i just don&amp;rsquo;t care anymore</description>
     </item>
     
     <item>
       <title>Second</title>
-      <link>http://example.org/article/second/</link>
+      <link>http://steamyrain.github.io/article/second/</link>
       <pubDate>Mon, 19 Oct 2020 10:08:48 +0700</pubDate>
       
-      <guid>http://example.org/article/second/</guid>
+      <guid>http://steamyrain.github.io/article/second/</guid>
       <description>Fusce lacus magna, maximus nec sapien eu, porta efficitur neque. Aliquam erat volutpat. Vestibulum enim nibh, posuere eu diam nec, varius sagittis turpis.
 Praesent quis sapien egestas mauris accumsan pulvinar. Ut mattis gravida venenatis. Vivamus lobortis risus id nisi rutrum, at iaculis.</description>
     </item>
     
     <item>
       <title>First</title>
-      <link>http://example.org/article/first/</link>
+      <link>http://steamyrain.github.io/article/first/</link>
       <pubDate>Mon, 19 Oct 2020 10:08:14 +0700</pubDate>
       
-      <guid>http://example.org/article/first/</guid>
+      <guid>http://steamyrain.github.io/article/first/</guid>
       <description>In vel ligula tortor. Aliquam erat volutpat. Pellentesque at felis eu quam tincidunt dignissim. Nulla facilisi.
 Pellentesque tempus nisi et interdum convallis. In quam ante, vulputate at massa et, rutrum gravida dui. Phasellus tristique libero at ex.</description>
     </item>
